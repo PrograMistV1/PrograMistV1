@@ -38,8 +38,8 @@ One of the founders of **WeaVerse Studio** — a team focused on development and
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrograMistV1&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrograMistV1&layout=compact&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PrograMistV1&show_icons=true&include_all_commits=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github-stats-extended.vercel.app/api?username=PrograMistV1&show_icons=true&include_all_commits=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PrograMistV1&langs_count=4&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github-stats-extended.vercel.app/api/top-langs?username=PrograMistV1&langs_count=4&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 ---
 
