@@ -1,45 +1,47 @@
 # 👋 Hi, I'm PrograMistV1
 
-🎓 Student at **ZUT (Poland)**  
-📚 Field of study: *Computer Science, Computer Engineering*
+🎓 Computer Engineering student at **ZUT (Poland)**
+🦀 Currently building **[Ursus](https://github.com/PrograMistV1/ursus)** — a Vulkan game engine written in Rust (render graph, ECS, deferred pipeline)
+📦 Author of Minecraft Bedrock add-ons with **5,600+ combined downloads** on CurseForge
+🚀 Co-founder of **WeaVerse Team**
 
-💻 Developer with experience in server-side and application development.  
-🚀 One of the **founders of WeaVerse Team**.  
-🧩 Worked with **PocketMine-MP** and the Minecraft server ecosystem.
+---
+
+## 🛠️ Featured projects
+
+### [Ursus](https://github.com/PrograMistV1/ursus) — Vulkan game engine (Rust)
+A from-scratch engine with a render-graph architecture (automatic barrier tracking), deferred rendering pipeline, bindless textures, and a threaded game/render split synchronized via a lock-free triple buffer.
+`Rust` `Vulkan (ash)` `ECS`
+
+### [ExNihilo — Bedrock Port](https://github.com/PrograMistV1/ExNihilo_Bedrock) — Minecraft Bedrock add-on
+Unofficial Bedrock adaptation of the Java mod ExNihilo: Sequentia. **4.9K+ downloads** on CurseForge, documented with MkDocs/ReadTheDocs, localized via Crowdin.
+`TypeScript` `Bedrock Add-ons` [🔗 CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/exnihilo-bedrock)
 
 ---
 
 ## 🛠️ Technologies & Languages
 
+- 🦀 **Rust**
 - ☕ **Java**
 - ⚙️ **C++**
 - 🐍 **Python**
 - 🐘 **PHP**
-
-Also interested in:
-- backend development
-- network applications
-- project optimization and architecture
-
----
-
-## 👥 Community
-
-💬 I have a Discord server where we communicate, build projects, and share experience:  
-👉 **[Join the Discord](https://discord.com/invite/BBtZ4nh8Rc)**
-
----
-
-## 🌌 WeaVerse Team
-
-One of the founders of **WeaVerse Studio** — a team focused on development and experimentation with game and server technologies.
+- 🟦 **TypeScript**
 
 ---
 
 ## 📈 GitHub Statistics
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PrograMistV1&show_icons=true&include_all_commits=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github-stats-extended.vercel.app/api?username=PrograMistV1&show_icons=true&include_all_commits=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PrograMistV1&langs_count=4&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github-stats-extended.vercel.app/api/top-langs?username=PrograMistV1&langs_count=4&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=PrograMistV1&langs_count=6&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github-stats-extended.vercel.app/api/top-langs?username=PrograMistV1&langs_count=6&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+---
+
+## 👥 Community
+
+🌌 Co-founder of **[WeaVerse Team](https://github.com/WeaVerseStudio)**, a team building game and server tools for the Minecraft ecosystem.
+
+💬 [Join the Discord](https://discord.com/invite/BBtZ4nh8Rc)
 
 ---
 
