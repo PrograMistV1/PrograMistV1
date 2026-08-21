@@ -16,7 +16,7 @@ A from-scratch engine with a render-graph architecture (automatic barrier tracki
 
 ### [ExNihilo - Bedrock Port](https://github.com/PrograMistV1/ExNihilo_Bedrock) - Minecraft Bedrock add-on
 
-Unofficial Bedrock adaptation of the Java mod ExNihilo: Sequentia. **[![CurseForge Downloads](https://cf.way2muchnoise.eu/580411_downloads.svg)](https://www.curseforge.com/minecraft-bedrock/addons/exnihilo-bedrock)** on CurseForge, documented with MkDocs/ReadTheDocs, localized via Crowdin.
+Unofficial Bedrock adaptation of the Java mod ExNihilo: Sequentia. **[![CurseForge Downloads](https://cf.way2muchnoise.eu/full_1485569_downloads.svg)](https://www.curseforge.com/minecraft-bedrock/addons/exnihilo-bedrock)** on CurseForge, documented with MkDocs/ReadTheDocs, localized via Crowdin.
 `TypeScript` `Bedrock Add-ons` [🔗 CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/exnihilo-bedrock)
 
 ---
