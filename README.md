@@ -1,8 +1,11 @@
 # 👋 Hi, I'm PrograMistV1
 
 🎓 Computer Engineering student at **ZUT (Poland)**
+
 🦀 Currently building **[Ursus](https://github.com/PrograMistV1/ursus)** - a Vulkan game engine written in Rust (render graph, ECS, deferred pipeline)
+
 📦 Author of Minecraft Bedrock add-ons with 7k+ downloads on CurseForge
+
 🚀 Co-founder of **WeaVerse Team**
 
 ---
