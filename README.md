@@ -6,8 +6,6 @@
 
 📦 Author of Minecraft Bedrock add-ons with 7k+ downloads on CurseForge
 
-🚀 Co-founder of **WeaVerse Team**
-
 ---
 
 ## 🛠️ Featured projects
@@ -43,8 +41,6 @@ Unofficial Bedrock adaptation of the Java mod ExNihilo: Sequentia. **[![CurseFor
 ---
 
 ## 👥 Community
-
-🌌 Co-founder of **[WeaVerse Team](https://github.com/WeaVerseStudio)**, a team building game and server tools for the Minecraft ecosystem.
 
 💬 [Join the Discord](https://discord.com/invite/BBtZ4nh8Rc)
 
